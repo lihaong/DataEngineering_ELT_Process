@@ -55,7 +55,7 @@ Airflow DAGs manage the pipeline and ensure tasks run efficiently.
 
 ---
 
-## 🌈 Customization
+## 🌟 Customization
 - **Extract and Load**: Update `elt_script` for different data sources or schemas.
 - **Transform**: Modify dbt models in `custom_postgres/` to fit your needs.
 - **Orchestrate**: Extend Airflow DAGs with additional tasks or dependencies.
